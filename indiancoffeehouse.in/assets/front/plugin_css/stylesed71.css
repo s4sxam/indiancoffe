@@ -1,0 +1,549 @@
+.main-btn.main-btn-2 {
+    background-color: #623620 !important;
+    /*border-color: #623620 !important;*/
+    border-radius: 50px;
+}
+
+.main-btn.main-btn-2:hover {
+    color: #FFFF;
+    background: transparent !important;
+    border-color: #623620;
+}
+
+.navigation .navbar .navbar-btns .header-times i {
+    color: #623620 !important;
+}
+
+.navigation .navbar .navbar-nav .nav-item a:hover {
+    color: #623620 !important;
+}
+
+.navigation .navbar .navbar-nav .nav-item .sub-menu>li:hover>a {
+    background-color: #623620 !important;
+}
+
+.infos span i {
+    color: #623620 !important;
+}
+
+.links a:hover {
+    color: #623620 !important;
+}
+
+ul.language-dropdown li a::before {
+    background: #623620 !important;
+}
+
+.main-btn:hover {
+    background-color: #623620;
+    border-color: #623620 !important;
+}
+
+.fress-area .single-fress:hover a {
+    color: #623620 !important;
+}
+
+.fress-area .single-fress::before {
+    background: #623620 !important;
+}
+
+.section-title span {
+    color: #623620 !important;
+}
+
+.food-menu-area .tabs-btn ul li a.active p {
+    color: #623620 !important;
+}
+
+.food-menu-area .food-menu-items .single-menu-item .menu-price-btn span {
+    color: #623620 !important;
+}
+
+.menu-price-btn del {
+    color: #623620 !important;
+}
+
+.food-menu-area .food-menu-items .single-menu-item .menu-price-btn a::before {
+    background: #623620 !important;
+}
+
+.food-menu-area .food-menu-items .single-menu-item .menu-price-btn a::after {
+    border: 1px solid #623620 !important;
+}
+
+.client-area .client-items .single-client .client-info .item-1 span {
+    color: #623620 !important;
+}
+
+.client-area .client-items .single-client .text p::before {
+    color: #623620 !important;
+}
+
+.client-area .client-items .single-client .text p::after {
+    color: #623620 !important;
+}
+
+.client-area .client-items .single-client .client-info .item-2 ul li {
+    color: #623620 !important;
+}
+
+.blog-area .blog-content a .title:hover {
+    color: #623620 !important;
+}
+
+.blog-area .blog-content .blog-comments a::before {
+    background: #623620 !important;
+}
+
+.blog-area .blog-content .blog-comments a::before {
+    background: #623620 !important;
+}
+
+.blog-area .blog-content .blog-comments a::after {
+    border: 1px solid #623620 !important;
+}
+
+.reservation-area .reservation-item .book-table .input-box button {
+    background: #623620 !important;
+}
+
+.footer-area.footer-area-2 .footer-widget-1 .header-times i {
+    color: #623620 !important;
+}
+
+.go-top-area .go-top::before {
+    background-color: #623620 !important;
+}
+
+.go-top-btn::after {
+    background: #623620 !important;
+}
+
+.go-top-area .go-top {
+    background-color: #623620 !important;
+}
+
+.page-title-area .page-title-item nav ol li {
+    /* color:#623620 !important; */
+    color: #9f8441 !important;
+}
+
+.food-menu-area.food-menu-3-area .tabs-btn .nav li a.active p {
+    color: #623620 !important;
+}
+
+.food-menu-area.food-menu-3-area .food-menu-items .single-menu-item .menu-price-btn a {
+    color: #623620 !important;
+}
+
+.food-menu-area.food-menu-3-area .food-menu-items .single-menu-item .menu-price-btn a::before {
+    background: #623620 !important;
+}
+
+.food-menu-area.food-menu-3-area .food-menu-items .single-menu-item .menu-price-btn a::after {
+    border-color: #623620 !important;
+}
+
+.shop-search i {
+    color: #623620 !important;
+}
+
+.shop-sidebar .shop-box .sidebar-title .title::before {
+    background: #623620 !important;
+}
+
+.shop-sidebar .shop-box .sidebar-title .title::after {
+    background: #623620 !important;
+}
+
+li.active-search a {
+    color: #623620 !important;
+}
+
+.pricing-area .single-pricing span {
+    color: #623620 !important;
+}
+
+.pricing-area .single-pricing a.main-btn:hover {
+    background: #623620 !important;
+    border-color: #623620 !important;
+}
+
+.ui-slider-horizontal .ui-slider-range {
+    background: #623620 !important;
+}
+
+button.filter-button {
+    background-color: #623620 !important;
+}
+
+.gallery-area .single-gallery .gallery-overlay a {
+    background: #623620 !important;
+}
+
+.blog-details-area .blog-sidebar .blog-box .blog-cat-list ul li a:hover {
+    color: #623620 !important;
+}
+
+.single-form button:hover {
+    color: #623620 !important;
+}
+
+.single-form button:hover::before {
+    background: #623620 !important;
+}
+
+button:hover::after {
+    border: 1px solid #623620 !important;
+}
+
+.single-form button:hover::after {
+    border: 1px solid #623620 !important;
+}
+
+.menu-contents .menu-tabs .nav li a.active {
+    background: #623620 !important;
+}
+
+.shop-details-area .shop-content .shop-btns a {
+    background: #623620 !important;
+    border-color: #623620 !important;
+}
+
+.cart-area .cart-table tbody .available-info .icon {
+    background: #623620 !important;
+}
+
+.cart-middle .update-cart button {
+    border: 1px solid #623620 !important;
+    background: #623620 !important;
+}
+
+.cart-area .cart-table tbody tr td .remove span:hover {
+    color: #623620 !important;
+}
+
+.login-area .login-content .input-btn button {
+    background: #623620 !important;
+    border-color: #623620 !important;
+}
+
+.login-area .login-content .input-btn button:hover {
+    color: #623620 !important;
+}
+
+.login-area .login-content .input-btn a {
+    color: #623620 !important;
+}
+
+.user-dashbord .user-sidebar .links li a.active {
+    color: #623620 !important;
+}
+
+.user-dashbord .main-table .dataTables_wrapper td a.btn {
+    border: 1px solid #623620 !important;
+}
+
+.user-dashbord .main-table .dataTables_wrapper td a.btn:hover {
+    background: #623620 !important;
+}
+
+.user-dashbord .user-profile-details .order-details .progress-area-step .progress-steps li.active .icon {
+    background: #623620 !important;
+}
+
+.user-dashbord .view-order-page .order-info-area .prinit .btn {
+    background: #623620 !important;
+}
+
+.user-dashbord .user-sidebar .links li a:hover {
+    color: #623620 !important;
+}
+
+.user-dashbord .user-profile-details .edit-info-area .file-upload-area span {
+    background: #623620 !important;
+}
+
+.user-dashbord .user-profile-details .edit-info-area .btn {
+    background: #623620 !important;
+}
+
+.placeorder-button .main-btn {
+    border-color: #623620 !important;
+    background-color: #623620;
+}
+
+.placeorder-button .main-btn:hover,
+.placeorder-button .main-btn:focus {
+    color: #623620 !important;
+}
+
+.revolve .round {
+    background-color: #623620;
+    border-top-color: #623620;
+    border-right-color: #623620;
+}
+
+.banner-slide-3 .slick-arrow,
+.banner-slide-2 .slick-arrow,
+.banner-slide .slick-arrow {
+    border: 2px solid #623620;
+}
+
+.banner-slide-3 .slick-arrow:hover,
+.banner-slide-2 .slick-arrow:hover,
+.banner-slide .slick-arrow:hover {
+    background: #623620;
+}
+
+.experience-area .experience-contact {
+    background: #623620;
+}
+
+.good-food-area .good-food-item a.title {
+    color: #623620;
+}
+
+.good-food-area .good-food-item a {
+    background: #623620;
+}
+
+.good-food-area .special-items .slick-arrow {
+    color: #623620;
+}
+
+.footer-area .footer-widget-1 ul li a:hover {
+    color: #623620;
+}
+
+.navigation .cart span {
+    background-color: #623620;
+}
+
+.navigation .cart a:hover {
+    color: #623620;
+}
+
+.links ul.social-links li a:hover {
+    color: #623620;
+}
+
+.footer-area .footer-widget-2 ul li a:hover {
+    color: #623620;
+}
+
+.footer-area .footer-widget-3 ul li a:hover {
+    color: #623620;
+}
+
+.pagination-part nav .pagination li a:hover {
+    background: #623620;
+    border-color: #623620;
+}
+
+.page-link {
+    color: #623620;
+}
+
+.page-item.active .page-link {
+    border-color: #623620;
+    background-color: #623620;
+}
+
+.menu-contents .menu-tabs .tab-content .tab-pane .shop-review-area .shop-review-form .input-box ul li a {
+    color: #623620;
+}
+
+.menu-contents .menu-tabs .tab-content .tab-pane .shop-review-area .shop-review-form .input-btn button {
+    background: #623620;
+    border-color: #623620;
+}
+
+.menu-contents .menu-tabs .tab-content .tab-pane .shop-review-area .shop-review-form .input-btn button:hover {
+    color: #623620;
+}
+
+.main-btn.main-btn-2.proceed-checkout-btn:hover {
+    color: #623620;
+    border: 2px solid #623620;
+}
+
+.cart-middle .update-cart button:hover {
+    color: #623620;
+    background: transparent !important;
+    border-color: #623620;
+}
+
+form.subscribe-form button {
+    background-color: #623620;
+}
+
+h3.subscribe-title::before {
+    background: #623620;
+}
+
+h3.subscribe-title::after {
+    background: #623620;
+}
+
+.faq-section .accordion .card .card-header .btn:hover {
+    background-color: #623620;
+}
+
+.faq-section .accordion .card .card-header .btn[aria-expanded="true"] {
+    background-color: #623620;
+}
+
+.single-job a.title {
+    color: #623620;
+}
+
+.single-job strong i {
+    color: #623620;
+}
+
+.job-details h3 {
+    color: #623620;
+}
+
+.category-lists ul li a::after {
+    color: #623620;
+}
+
+.category-lists ul li a:hover {
+    color: #623620;
+}
+
+.category-lists ul li.active a {
+    color: #623620;
+}
+
+#variationModal .btn-primary {
+    background-color: #623620;
+    border-color: #623620;
+}
+
+#variationModal .form-check span {
+    color: #623620;
+}
+
+#variationModal .modal-title small {
+    color: #623620;
+}
+
+.modal-quantity span {
+    color: #623620;
+}
+
+button.cookie-consent__agree {
+    background-color: #623620;
+}
+
+.food-menu-area .food-menu-items .single-menu-item .menu-content a.title:hover {
+    color: #623620;
+}
+
+.food-menu-area.food-menu-2-area .food-menu-items .single-menu-item:hover {
+    border: 1px solid #623620;
+}
+
+.shop-details-area .shop-item .shop-thumb .slick-arrow {
+    background: #623620;
+}
+
+.shop-details-area .shop-item .shop-list .shop-thumb-active .slick-arrow {
+    background: #623620;
+}
+
+.base-btn {
+    background-color: #623620;
+    border: 1px solid #623620;
+}
+
+.checkout-area .coupon:before {
+    background: #623620;
+}
+
+.food-menu-area .button-group button.is-checked {
+    background-color: #623620 !important;
+    color: #fff;
+}
+
+.food-menu-area .button-group button {
+    color: #623620;
+    border: 1px solid #623620;
+    background-color: transparent !important;
+}
+
+#toast-container>div {
+    background-color: #623620 !important;
+}
+
+.form-check-input:checked {
+    background-color: #623620 !important;
+    ;
+    border-color: #623620 !important;
+}
+
+< !--- Theme Color--->
+/* Theme Color CSS */
+
+.theme-color-1 {
+    --color-primary: #623620 !important;
+    --color-primary-rgb: 193, 159, 95 !important;
+    < !-- --btn-color: var(--color-dark) !important;
+    -->
+}
+
+.theme-color-bakery {
+    --color-primary: #623620 !important;
+    --color-primary-rgb: 193, 159, 95 !important;
+    < !-- --btn-color: var(--color-dark) !important;
+    -->
+}
+
+.theme-color-2 {
+    --color-primary: #623620 !important;
+    ;
+    --color-primary-rgb: 250, 185, 64;
+    --btn-color: var(--color-dark);
+    --font-heading: "Josefin Sans", sans-serif;
+}
+
+.theme-color-3 {
+    --color-primary: #623620 !important;
+    ;
+    --color-primary-rgb: 69, 42, 28;
+    --font-heading: "Playfair Display", serif;
+}
+
+.theme-color-4 {
+    --color-primary: #623620 !important;
+    ;
+    --color-primary-rgb: 73, 154, 250;
+    --font-heading: "Plus Jakarta Sans", sans-serif;
+    --font-body: "Inter", sans-serif;
+}
+
+.theme-color-5 {
+    --color-primary: #623620 !important;
+    --color-primary-rgb: 133, 195, 60;
+    --font-heading: "Jost", sans-serif;
+    --font-body: "Inter", sans-serif;
+}
+
+.theme-color-6 {
+    --color-primary: #623620 !important;
+    --color-primary-rgb: 238, 119, 18;
+    --font-heading: "Poppins", sans-serif;
+    --font-body: "Roboto", sans-serif;
+}
+
+.popup_main-content h1 {
+    color: #623620 !important;
+}
+
+:root {
+    --color-primary: #623620 !important;
+    --color-primary-rgb: 98, 54, 32 !important;
+}
